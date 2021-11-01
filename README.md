@@ -1,4 +1,4 @@
-# _Ciucci_ team
+# _Ciucci_ kart racing
 
 ## About
 
